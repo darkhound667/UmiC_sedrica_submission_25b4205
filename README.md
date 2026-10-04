@@ -1,6 +1,6 @@
 # UMIC SeDriCa recruitment assignment 2026-27
 
-**Ruturva Vaghasia** · Roll number 25B4205 · Environmental Science and Engineering Department
+**Ruturva Vaghasia** · Roll number 25B4205 · Environmental Science and Engineering Department · https://github.com/darkhound667/UmiC_sedrica_submission_25b4205
 
 | Folder | Contents |
 | --- | --- |
