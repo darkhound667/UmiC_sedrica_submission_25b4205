@@ -1,0 +1,13 @@
+{
+  "angle_min_deg": -90,
+  "angle_increment_deg": 1,
+  "number_of_ranges": 181,
+  "range_max_m": 8,
+  "car_width_m": 0.3,
+  "front_axle_to_sensor_m": 0.12,
+  "corridor_left_y_m": 2.0,
+  "corridor_right_y_m": -2.0,
+  "corridor_end_x_m": 11.5,
+  "coordinates": "+x forward; +y left; angles counterclockwise from +x",
+  "missing_value": "empty CSV cell"
+}

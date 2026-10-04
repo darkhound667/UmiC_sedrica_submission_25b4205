@@ -1,0 +1,43 @@
+{
+  "image_size_px": [
+    480,
+    320
+  ],
+  "image_points_px": [
+    [
+      206,
+      80
+    ],
+    [
+      274,
+      80
+    ],
+    [
+      80,
+      319
+    ],
+    [
+      400,
+      319
+    ]
+  ],
+  "ground_points_m": [
+    [
+      -0.175,
+      2.0
+    ],
+    [
+      0.175,
+      2.0
+    ],
+    [
+      -0.175,
+      0.0
+    ],
+    [
+      0.175,
+      0.0
+    ]
+  ],
+  "note": "Approximate planar correspondences for the straight calibration frame."
+}

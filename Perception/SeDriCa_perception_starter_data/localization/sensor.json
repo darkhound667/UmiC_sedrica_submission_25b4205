@@ -1,0 +1,7 @@
+{
+  "angle_min_deg": -75,
+  "angle_increment_deg": 5,
+  "number_of_ranges": 31,
+  "units": "metres",
+  "note": "Reference scans are map fingerprints, not a full metric map."
+}
